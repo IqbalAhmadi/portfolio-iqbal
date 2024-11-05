@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Ahmadi
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Full Stack Web Developer</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />

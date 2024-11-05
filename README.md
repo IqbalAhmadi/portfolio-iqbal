@@ -35,7 +35,7 @@ I am a passionate web developer with a strong interest in computer science and r
 
 ## Getting Started
 
-To view my portfolio, simply open the `index.html` file in your browser. You can also visit the live version at [your website URL].
+To view my portfolio, simply open the `index.html` file in your browser. You can also visit the live version at [here](https://iqbal-ahmadi.netlify.app/).
 
 ### Prerequisites
 
